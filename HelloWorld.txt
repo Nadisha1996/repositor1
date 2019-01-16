@@ -10,3 +10,4 @@ flag
 vbbb
 ftstr
 bgg
+star
